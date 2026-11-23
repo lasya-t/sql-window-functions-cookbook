@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.egg-info/
+data/
+*.parquet
+*.duckdb
+sample_*.log
+sample_*.xlsx
+examples/*.jsonl
+tidy.csv
+flat/
+dim_date.csv
